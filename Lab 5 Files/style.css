@@ -1,0 +1,39 @@
+html {
+    background-color: #444444;
+}
+body {
+    background-color: #ffffff;
+    width: 960px;
+    border: 20px solid #ffffff;
+    margin-left: auto;
+    margin-right: auto;
+    font-family: 'Segoe UI', Arial, sans-serif;
+    font-size: 15px;
+}
+header {
+    color: #ffffff;
+    text-align: center;
+    background-color: #0000ff;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+main {
+    background-color: #ffffff;
+}
+footer {
+    background-color: #808080;
+    padding: 15px;
+}
+a {
+    color:red;
+    text-decoration: underline;
+}
+
+footer a {
+    color: black;
+    font-weight: normal;
+}
+
+video {
+    width: 100%;
+   }
